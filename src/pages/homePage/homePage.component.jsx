@@ -7,7 +7,7 @@ import "./homePage.style.scss";
 const HomePage = () => {
   return (
     <main className="homepage">
-      <h1>Welcome to my Homepage 66</h1>
+      <h1>Welcome to my Homepage</h1>
 
       <section className="directory-menu">
         <Directory />
