@@ -4,5 +4,6 @@
   color: white;
   flex-direction: column;
   align-items: center;
+  padding: 20px 60px;
   background-color: #282c34;
 }
